@@ -1,4 +1,4 @@
----covic 19
+
 --ejercicio 1:
 SELECT name, DAY(whn),
  confirmed, deaths, recovered
